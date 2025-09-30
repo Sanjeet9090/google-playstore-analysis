@@ -1,10 +1,11 @@
 # google-playstore-analysis
 Exploratory Data Analysis (EDA) on Google Play Store dataset
+
 Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Google Play Store dataset to uncover trends, patterns, and insights about app performance. The goal is to understand factors that influence app ratings, installs, and user engagement, and to provide data-driven recommendations for app developers and marketers.
 
-📂 Dataset
+Dataset
 
 Source: Google Play Store Dataset 
 
@@ -12,13 +13,13 @@ Size: ~10,000+ apps across categories
 
 Features: App name, category, rating, reviews, installs, size, price, type (free/paid), content rating, genres, last updated, etc.
 
-🛠️ Tools & Libraries
+ Tools & Libraries
 
 Python → Pandas, NumPy, Matplotlib, Seaborn
 
 Jupyter Notebook for analysis & visualization
 
-📈 Key Analysis & Insights
+Key Analysis & Insights
 
 Cleaned and pre-processed data (handled missing values, duplicates, and outliers).
 
@@ -30,7 +31,7 @@ Found strong correlation between ratings and number of installs.
 
 Discovered seasonal trends in app updates and reviews.
 
-📊 Visualizations
+ Visualizations
 
 Some insights visualized using Matplotlib & Seaborn:
 
@@ -42,7 +43,7 @@ Correlation heatmap (reviews, ratings, installs)
 
 Free vs Paid apps performance
 
-🚀 Outcomes
+Outcomes
 
 Suggested optimal app categories for new launches.
 
